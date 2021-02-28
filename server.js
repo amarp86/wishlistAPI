@@ -17,7 +17,7 @@ app.listen(PORT, () => {
 const posts = [
   {
     id: "1",
-    product: "BackEnd Warrior",
+    product: "Apple Ipad Mini",
 
     details: "waiting for the next one to release",
   },
