@@ -32,6 +32,7 @@ const posts = [
     details: "nothing beats chocolate",
   },
   {
+    id: "4",
     product: "12oz Stumptown Coffee",
     details: "coffee that gets you wired",
   },
